@@ -1,6 +1,6 @@
 # tic-tac-toe Game 
 
-# C based tic-tac-toe with signle player 
+# C based tic-tac-toe with single player 
 
 <img width="729" height="278" alt="image" src="https://github.com/user-attachments/assets/8bd0bbbf-5c88-4ee6-9e68-1417863317c0" />
 
